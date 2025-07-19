@@ -3,7 +3,7 @@
 
 🚀 Currently building **WISH** – a creative web app.  
 🌱 Exploring tech through Python, GenAI, and full-stack development.  
-🎬 Passionate about content creation, scripting, frontend, and recording.  
+🎬 Passionate about content creation, scripting, and recording.  
 💡 Fun fact: “My true passion lies in creative pursuits: content creation, scripting, and recording excite me even more than tech alone.”
 
 ---
