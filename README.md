@@ -10,10 +10,9 @@
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your_username)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/your_username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)  
-[![Internshala](https://img.shields.io/badge/Internshala-008DCB?style=flat&logo=internshala&logoColor=white)](https://internshala.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b_bipps)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/b_bipps)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in?bipps13)  
 
 ---
 
@@ -33,4 +32,4 @@
 ---
 ## 💻 Dev Quote
 
-🛠 *Indian engineers are the only ones who can do anything with engineering — except engineering.* 😄
+🛠 *Indian engineers are the only ones who can do anything with engineering degree — except engineering.* 😄
